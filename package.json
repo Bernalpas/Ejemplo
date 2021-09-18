@@ -1,0 +1,19 @@
+{
+  "name": "clase01",
+  "version": "1.0.0",
+  "description": "Mi proyecto web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bernalpas/Ejemplo.git"
+  },
+  "author": "Berni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bernalpas/Ejemplo/issues"
+  },
+  "homepage": "https://github.com/Bernalpas/Ejemplo#readme"
+}
